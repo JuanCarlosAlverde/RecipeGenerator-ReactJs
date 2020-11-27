@@ -1,9 +1,10 @@
 Recipe Generator App.
-<div><img src="RecipeGenerator00.jpg"></div>
-<div><img src="RecipeGenerator01.jpg"></div>
-<div><img src="RecipeGenerator02.jpg"></div>
-<div><img src="RecipeGenerator03.jpg"></div>
-<div><img src="RecipeGenerator04.jpg"></div>
+
+<div><img src="Recipes00.jpg"></div>
+<div><img src="Recipes01.jpg"></div>
+<div><img src="Recipes02.jpg"></div>
+<div><img src="Recipes03.jpg"></div>
+<div><img src="Recipes04.jpg"></div>
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
